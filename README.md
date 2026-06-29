@@ -11,7 +11,8 @@
 ## 🌟 About Me
 
 - 💻 I’m a **Web Developer**
-- 🌱 Currently learning **MERN Stack & Advanced Web Development**
+-  💻 I’m a **A Trainee At Infobeans Foundation Indore**
+- 🌱 Currently learning ** Python - AIML And MERN Stack & Advanced Web Development**
 - 🚀 Love building modern and responsive websites
 - 🎯 Goal: Become a top software developer
 - ⚡ Fun fact: I turn coffee ☕ into code
