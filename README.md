@@ -11,7 +11,7 @@
 ## 🌟 About Me
 
 - 💻 I’m a **Web Developer**
--  💻 I’m a **A Trainee At Infobeans Foundation Indore**
+- 🎯 I’m  **A Trainee At Infobeans Foundation Indore**
 - 🌱 Currently learning ** Python - AIML And MERN Stack & Advanced Web Development**
 - 🚀 Love building modern and responsive websites
 - 🎯 Goal: Become a top software developer
